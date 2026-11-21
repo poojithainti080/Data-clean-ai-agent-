@@ -1,0 +1,13 @@
+student_id,name,city,age,gender,score,admit_date,branch
+101,  Ravi Kumar ,Hyderabad,21.0,M,78.5,2024-06-12,CSE
+102,anita sharma,Mumbai,22.0,F,82.0,12/07/2024,ece
+103,Kiran Rao,Chennai,,F,69.0,2024-08-01,CSE
+104,Suresh Babu,Delhi,23.0,male,,15-Aug-2024,Mech
+105,Meena Iyer,Chennai,20.0,F,91.5,2024-09-09,ECE
+102,anita sharma,Mumbai,22.0,F,82.0,12/07/2024,ece
+106,Rahul Verma,Delhi,24.0,M,45.0,2024-10-10,Mech
+107,Sneha Reddy,Hyderabad,150.0,F,88.0,2024-11-02,CSE
+108,Arjun Das,,22.0,M,74.0,2024-11-20,ECE
+109,Divya Nair,Mumbai,21.0,F,350.0,2024-12-01,CSE
+110,Imran Khan,Delhi,23.0,M,66.5,05/01/2025,Mech
+111,Lakshmi P,Chennai,22.0,female,72.0,2025-01-15,ECE
